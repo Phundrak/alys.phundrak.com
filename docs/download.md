@@ -94,4 +94,8 @@ Leur téléchargement se fait via l’onglet *Releases* de la page des
 sources de chacune des banques vocales. Vous pouvez télécharger soit
 l’archive zip, soit l’archive tar.gz.
 
-## DiffSinger pour OpenUTAU
+## DiffSinger
+[ALYS pour DiffSinger](https://www.alys.utaufrance.com/) est
+développée et distribuée par [UtauFrance](https://utaufrance.com/).
+DiffSinger est utilisable sous OpenUTAU. Sa banque vocale est capable
+de chanter en français, japonais et anglais.

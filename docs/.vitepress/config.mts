@@ -11,7 +11,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     editLink: {
-      pattern: 'https://labs.phundrak.com/phundrak/auie/src/branch/main/:path',
+      pattern: 'https://labs.phundrak.com/ALYS/alys.phundrak.com/src/branch/main/docs/:path',
     },
     nav: [
       { text: 'Home', link: '/' },
