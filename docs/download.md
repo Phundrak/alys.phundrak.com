@@ -55,10 +55,17 @@ itération future de l’architecture ARM de leur processeur.
 :::
 
 ### Activation
-Afin d’activer ALYS4AE, il vous faudra télécharger cette image qui est
-la clef d’activation d’ALYS4AE. Une fois cette image téléchargée, vous
-pourrez en faire un glisser-déposer sur l’interface d’Alter/Ego
-ouverte depuis un logiciel de musique.
+Afin d’activer ALYS4AE, il vous faudra télécharger [cette
+image](https://labs.phundrak.com/ALYS/ALYS/raw/branch/main/img/VoxWave.png)
+qui est la clef d’activation d’ALYS4AE. Une fois cette image
+téléchargée, vous pourrez en faire un glisser-déposer sur l’interface
+d’Alter/Ego ouverte depuis un logiciel de musique.
+
+::: danger ATTENTION
+Cette image ne doit en aucun cas être modifiée. Toute modification
+rend inutile cette image et détruirait les données permettant
+l’activation d’ALYS.
+:::
 
 ## UTAU
 Le prototype original d’ALYS fût développé pour UTAU. L’ensemble des
