@@ -8,7 +8,6 @@ export default defineConfig({
   description: 'Chanteuse Virtuelle Francophone',
   head: appHead,
   cleanUrls: true,
-  lastUpdated: true,
   themeConfig: {
     editLink: {
       pattern: 'https://labs.phundrak.com/ALYS/alys.phundrak.com/src/branch/main/docs/:path',
