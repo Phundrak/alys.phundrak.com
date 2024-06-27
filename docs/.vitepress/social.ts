@@ -15,7 +15,7 @@ const socialLinks = [
     icon: {
       svg: discordSvg,
     },
-    link: 'https://alys.phundrak.com/discord',
+    link: 'https://discord.gg/mChDJQW',
   },
 ];
 
