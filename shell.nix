@@ -1,9 +1,8 @@
 { pkgs ? import <nixpkgs> {} }:
 pkgs.mkShell {
-  nativeBuildInputs = with pkgs.buildPackages; [
-    corepack
+  nativeBuildInputs = with pkgs; [
+    nodejs_20
   ];
   shellHook = ''
-yarn set version stable
 '';
 }
