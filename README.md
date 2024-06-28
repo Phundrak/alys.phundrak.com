@@ -1,19 +1,22 @@
 # ALYS Vocal Libraries Website
 
 ## Installing dependencies
-To run the website, you will need corepack’s yarn 4. You can enable it
-using `yarn set version stable`, or you can enter a Nix shell using
-`nix-shell` at the root of this repository.
+To run the website, you will need the NPM package manager. You can
+either install it following your operating system’s workflow, or you
+can enter a Nix shell using `nix-shell` at the root of this
+repository. If you run `direnv allow .` at the root of this
+repository, the Nix shell made for this project will be loaded
+automatically.
 
 To install all dependencies, run the following command:
 ```sh
-yarn
+npm install
 ```
 
 ## Running the website
 To run the website in development mode, run the following command:
 ```sh
-yarn dev
+npm run dev
 ```
 
 This will start the website at <http://localhost:5173>.
@@ -21,12 +24,12 @@ This will start the website at <http://localhost:5173>.
 ## Building the website
 To build the website, run the following command:
 ```sh
-yarn build
+npm run build
 ```
 
 You can view this release build by running the following command:
 ```sh
-yarn preview
+npm run preview
 ```
 
 # License
