@@ -19,6 +19,7 @@ export default defineConfig({
         nav: [
           { text: 'Accueil', link: '/' },
           { text: 'À Propos', link: '/about' },
+          { text: 'English', link: '/en/' },
         ],
         sidebar: [
           {
@@ -44,6 +45,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'About', link: '/en/about' },
+          { text: 'Français', link: '/' },
         ],
         sidebar: [
           {
