@@ -34,14 +34,15 @@ le navigateur de ses visiteurs sont ses préférences de thème de
 couleurs.
 
 ### Analyse de trafic
-Ce site utilise également [Umami](https://umami.is) afin de réaliser
-des analyses de trafic. Ce service ne stocke aucune données sur
+Ce site utilise [Umami](https://umami.is) afin de réaliser des
+analyses de trafic. Ce service ne stocke aucune données sur
 l’ordinateur de l’utilisateur et ne collecte aucune données pouvant
 l’identifier. Si vous souhaitez tout de même bloquer ce service, vous
 pouvez rajouter le domaine `umami.phundrak.com` à la liste des
 domaines bloqués par votre bloqueur de pubs — je recommande
-personnellement uBlock Origin qui est d’expérience bien plus efficace
-que n’importe quel autre bloqueur de pubs.
+personnellement [uBlock Origin](https://ublockorigin.com/) qui est
+d’expérience bien plus efficace que n’importe quel autre bloqueur de
+pubs.
 
 ### Publicité
 Un affichage de publicité sur ce site web est hors de question. Si
