@@ -63,7 +63,8 @@ faudra s’adresser.
 
 ## Y a-t-il quelque chose de prévu pour LEORA ?
 
-Aucun projet n’est prévu pour le moment. Cela dépend, entre autres, de
-la volonté des ayant-droits. Merci d’éviter toute communication non
-sollicitée à l’égard des anciens membres de VoxWave par rapport à
-LEORA.
+LEORA a été republiée le 14 Février 2025 pour DiffSinger et est
+disponible au téléchargement sur [le site
+d’UtauFrance](https://www.alys.utaufrance.com/leora/). Il n’est
+cependant pas prévu de republier LEORA en source disponible comme
+c’est actuellement le cas pour ALYS.

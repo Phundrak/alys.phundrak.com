@@ -58,6 +58,8 @@ DiffSinger, [UFR](https://utaufrance.com/), should be contacted
 instead.
 
 ## Are there any plans for LEORA?
-There are no plans for the moment. This depends, among other things,
-on the will of the rights holders. Please avoid any unsolicited
-communication with former VoxWave members regarding LEORA.
+LEORA was republished on February 14th of 2025 for DiffSinger. You can
+download her vocal library on [the website of
+UtauFrance](https://www.alys.utaufrance.com/leora/). There are
+currently no plan to republish LEORA as source-available like ALYS
+currently is.
