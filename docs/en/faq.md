@@ -17,7 +17,7 @@ Documentation files are under free licence
 [`FDL-1.3`](https://www.gnu.org/licenses/fdl-1.3.fr.html).
 
 The audio files are under a licence specific to ALYS, the restrictive
-licence [`ALYS-1.0`](/en/ALYS-1.0.md). This licence can be summarised
+licence [`ALYS-1.1`](/en/ALYS-1.1.md). This licence can be summarised
 as follows:
 - Any person is free to access ALYS audio files without restriction;
 - Any person has the right to use the ALYS audio files for vocal
